@@ -1,0 +1,687 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    ./* header start */
+    .C_template {
+        padding-bottom: 40px;
+    }
+    .C_template {
+        padding-bottom: 40px;
+        }
+    .C_template h2{
+        font-size: 30px;
+        }
+    .C_template h3{
+        margin-top: 10px;
+        font-size: 30px;
+        }
+    .h_text {
+        margin-top: 20px;
+        padding-bottom:10px;
+        }
+    .h_button {
+        margin-top: 30px;
+        font-size: 14px;
+        }
+    .prg p {
+        margin-top: 5px;
+        font-size: 13px;
+        }
+        .d_menu[data-bs-popper] {
+            top: 30px;
+            left: 0px;
+        }
+    /* header end */
+    /* about start */
+    .about {
+        margin-top: 30px;
+        }
+    .a_text h2{
+        font-size:20px;
+    }
+    .a_text h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+        }
+    .a_text p {
+        margin-top: 10px;
+        padding: 0 0px;
+    }
+    .a_img {
+        margin-top: 20px;
+    }
+    .a_img img {
+            margin:0 9%;
+            width: 90%;
+    }
+    /* about end */
+    /* web start */
+    .web {
+        margin-top: 40px;
+        margin-left: 25px;
+        }
+    .w_s {
+        margin: 50px 0;
+        }
+    .w_s h2{
+        font-size:30px;
+        }
+    .w_s p{
+        font-size:11px;
+        }
+    /* service start */
+    .service {
+        margin-top: 30px;
+        }
+    .s_text h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+        }
+    .s_service {
+        margin-top: 30px;
+        margin-bottom: 0px;
+        }
+    .singel_icon img {
+        margin: 0 110%;
+        width: 40%;
+        margin-top: 0px;
+        }
+    .singel_text h2{
+        margin-top:15px;
+        font-size:15px;
+        text-align:center;
+        }
+    .singel_text p{
+        margin-top:0px;
+        font-size:14px;
+        text-align:center;
+        }
+        .sss{
+            margin-left:10px;
+            width:100%;
+            height:1px;
+            background-color: #dfdfdf;
+        }
+    /* service end */
+    /* unique start */
+    .u_text {
+        padding-top: 30px;
+        }
+    .u_text h2 {
+        font-size:20px;
+        }
+    .u_text h3 {
+            margin-top: 10px;
+            margin-bottom: 15px;
+            font-size: 20px;
+        }
+    .u_text p {
+        margin-top: 10px;
+        padding: 0 15px;
+        }
+    /* unique end */
+    /* wedo start */
+    .w_img img{
+        margin-bottom: 30px;
+        margin-left: 0px;
+        }
+    .accPhoto {
+        margin: 40px 0;
+        }
+    .accP{
+        font-size:10px;
+    }
+    /* wedo end */
+    /* jon start */
+    .jon {
+        padding:20px 0;
+    }
+    .mess img {
+        width: 25%;
+        margin:0 115px;
+        }
+    .lorem p{
+        margin-top:10px;
+        font-size:16px;
+        text-align:center;
+        }
+    .lorem h2{
+        margin-top: -10px;
+        font-size:20px;
+        text-align:center;
+        }
+    /* jon end */
+    /* team start */
+    .team {
+        margin-bottom: 15px;
+        }
+    .t_c {
+        margin-top: 10px;
+        }
+    .mmm h2 {
+        margin-top: 15px;
+        font-size: 14px;
+        }
+    .mmm p {
+        margin-top: -2px;
+        font-size: 14px;
+        }
+    /* team end */
+    /* some start */
+    .s_images {
+        margin-top: 30px;
+        }
+    .s_img{
+        margin-left:0px;
+    }
+    /* some end */
+    /* joshua start */
+    .Joshua {
+        margin: 30px 0;
+        }
+    /* joshua end */
+    /* pepole start */
+    .pepole {
+        padding-bottom: 15px;
+    }
+    .G_graphic {
+        margin-top: 15px;
+    }
+    .graphics h2{
+        margin-top:10px;
+        font-size:14px;
+        text-align:center;
+    }
+    .graphics h3{
+        font-size:14px;
+        text-align:center;
+    }
+    .g_img {
+        width: 50%;
+        margin: 0 25%;
+        text-align:center;
+    }
+    .g_hr {
+        color: red;
+        width: 15%;
+        margin:0 auto;
+    }
+    .graphics p{
+        font-size:13px;
+        text-align:center;
+    }
+    /* blog start */
+    .latest {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding:0 62px;
+    }
+    .h{
+        margin-left:10px;
+        font-size:11px;
+    }
+    .latest p {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 11px;
+    }
+    /* blog end */
+    /* footer start */
+    .footer{
+        padding:10px 0;
+    }
+    .f_footer p{
+        margin-top:10px;
+        font-size:10px;
+    }
+    /* footer end */
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    .C_template {
+        padding-bottom: 60px;
+        }
+    .C_template h2{
+        font-size: 40px;
+        }
+    .C_template h3{
+        margin-top:20px;
+        font-size:50px;
+        }
+    .h_text {
+        margin-top: 30px;
+        }
+    .h_button {
+        margin-top: 30px;
+        font-size: 14px;
+        }
+    .prg p {
+        margin-top: 15px;
+        font-size: 13px;
+        }
+        .d_menu[data-bs-popper] {
+            top: 30px;
+            left: 0px;
+        }
+    /* header end */
+    /* about start */
+    .about {
+        margin-top: 30px;
+        }
+    .a_text h2{
+        font-size:20px;
+    }
+    .a_text h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+        }
+    .a_text p {
+        margin-top: 15px;
+        padding: 0 52px;
+    }
+    .a_img {
+        margin-top: 20px;
+    }
+    .a_img img {
+            margin:0 9%;
+            width: 90%;
+    }
+    /* about end */
+    /* web start */
+    .web {
+        margin-top: 40px;
+        margin-left: 25px;
+        }
+    .w_s {
+        margin: 50px 0;
+        }
+    .w_s h2{
+        font-size:30px;
+        }
+    .w_s p{
+        font-size:11px;
+        }
+    /* service start */
+    .service {
+        margin-top: 30px;
+        }
+    .s_text h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+        }
+    .s_service {
+        margin-top: 30px;
+        margin-bottom: 0px;
+        }
+    .singel_icon img {
+        margin: 0 110%;
+        width: 40%;
+        margin-top: 0px;
+        }
+    .singel_text h2{
+        margin-top:15px;
+        font-size:15px;
+        text-align:center;
+        }
+    .singel_text p{
+        margin-top:0px;
+        font-size:14px;
+        text-align:center;
+        }
+    /* service end */
+    /* unique start */
+    .u_text {
+        padding-top: 30px;
+        }
+    .u_text h2 {
+        font-size:20px;
+        }
+    .u_text h3 {
+            margin-top: 10px;
+            margin-bottom: 15px;
+            font-size: 20px;
+        }
+    .u_text p {
+        margin-top: 10px;
+        padding: 0 15px;
+        }
+    /* unique end */
+    /* wedo start */
+    .w_img img{
+        margin-bottom: 30px;
+        margin-left: 0px;
+        }
+    .accPhoto {
+        margin: 40px 0;
+        }
+    .accP{
+        font-size:15px;
+    }
+    /* wedo end */
+    /* jon start */
+    .jon {
+        padding:20px 0;
+    }
+    .mess img {
+        width: 25%;
+        margin:0 205px;
+        }
+    .lorem p{
+        margin-top:10px;
+        font-size:16px;
+        text-align:center;
+        }
+    .lorem h2{
+        margin-top: -10px;
+        font-size:20px;
+        text-align:center;
+        }
+    /* jon end */
+    /* team start */
+    .team {
+        margin-bottom: 15px;
+        }
+    .t_c {
+        margin-top: 10px;
+        }
+    .mmm h2 {
+        margin-top: 15px;
+        font-size: 14px;
+        }
+    .mmm p {
+        margin-top: -2px;
+        font-size: 14px;
+        }
+    /* team end */
+    /* some start */
+    .s_images {
+        margin-top: 30px;
+        }
+    .s_img{
+        margin-left:0px;
+    }
+    /* some end */
+    /* joshua start */
+    .Joshua {
+        margin: 30px 0;
+        }
+    /* joshua end */
+    /* pepole start */
+    .pepole {
+        padding-bottom: 15px;
+    }
+    .G_graphic {
+        margin-top: 15px;
+    }
+    .graphics h2{
+        margin-top:10px;
+        font-size:14px;
+        text-align:center;
+    }
+    .graphics h3{
+        font-size:14px;
+        text-align:center;
+    }
+    .g_img {
+        width: 50%;
+        margin: 0 25%;
+        text-align:center;
+    }
+    .g_hr {
+        color: red;
+        width: 15%;
+        margin:0 auto;
+    }
+    .graphics p{
+        font-size:13px;
+        text-align:center;
+    }
+    /* blog start */
+    .latest {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding:0 62px;
+    }
+    .h{
+        margin-left:10px;
+        font-size:14px;
+    }
+    .latest p {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 11px;
+    }
+    /* blog end */
+    /* footer start */
+    .footer{
+        padding:10px 0;
+    }
+    .f_footer p{
+        margin-top:20px;
+        font-size:14px;
+    }
+    /* footer end */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    .C_template {
+        padding-bottom: 60px;
+        }
+    .C_template h2{
+        font-size: 48px;
+        }
+    .C_template h3{
+        margin-top:25px;
+        font-size:65px;
+        }
+    .h_text {
+        margin-top: 30px;
+        }
+    .h_button {
+        margin-top: 30px;
+        font-size: 14px;
+        }
+    .prg p {
+        margin-top: 15px;
+        font-size: 13px;
+        }
+        .d_menu[data-bs-popper] {
+            top: 30px;
+            left: 0px;
+        }
+    /* header end */
+    /* about start */
+    .about {
+        margin-top: 40px;
+        }
+    .a_text h3 {
+        margin-top: 15px;
+        margin-bottom: 20px;
+        font-size:25px;
+        }
+    .a_text p {
+        margin-top: 20px;
+        padding: 0 92px;
+    }
+    .a_img {
+        margin-top: 40px;
+        }
+    /* about end */
+    /* web start */
+    .web {
+        margin-top: 70px;
+        }
+    .w_s {
+        margin: 50px 0;
+        }
+    .w_s h2{
+        font-size:50px;
+        }
+    .w_s p{
+        font-size:12px;
+        }
+    /* service start */
+    .service {
+        margin-top: 40px;
+        }
+    .s_text h3 {
+        margin-top: 10px;
+        margin-bottom: 15px;
+        font-size: 20px;
+        }
+    .s_service {
+        margin-top: 30px;
+        margin-bottom: 0px;
+        }
+    .singel_icon img {
+        margin: 0 100%;
+        width: 80%;
+        margin-top: 0px;
+        }
+    .singel_text h2{
+        margin-top:15px;
+        font-size:15px;
+        text-align:center;
+        }
+    .singel_text p{
+        margin-top:0px;
+        font-size:14px;
+        text-align:center;
+        }
+    /* service end */
+    /* unique start */
+    .u_text {
+        padding-top: 40px;
+        }
+    .u_text h2 {
+        font-size:20px;
+        }
+    .u_text h3 {
+            margin-top: 10px;
+            margin-bottom: 15px;
+            font-size: 20px;
+        }
+    .u_text p {
+        margin-top: 20px;
+        padding: 0 80px
+        }
+    /* unique end */
+    /* wedo start */
+    .w_img img{
+        margin-bottom: 60px;
+        margin-left: 70px;
+        }
+    .accPhoto {
+        margin: 40px 0;
+        }
+    /* wedo end */
+    /* jon start */
+    .mess img {
+        width: 80%;
+        }
+    .lorem p{
+        font-size:16px;
+        }
+    .lorem h2{
+        margin-top: -10px;
+        font-size:20px;
+        }
+    /* jon end */
+    /* team start */
+    .team {
+        margin-bottom: 30px;
+        }
+    .t_c {
+        margin-top: 30px;
+        }
+    .mmm h2 {
+        margin-top: 15px;
+        font-size: 15px;
+        }
+    .mmm p {
+        margin-top: -2px;
+        font-size: 14px;
+        }
+    /* team end */
+    /* some start */
+    .s_images {
+        margin:0 5px;
+        margin-top: 50px;
+        }
+    /* some end */
+    /* joshua start */
+    .Joshua {
+        margin: 50px 0;
+        }
+    /* joshua end */
+    /* pepole start */
+    .pepole {
+        padding-bottom: 40px;
+    }
+    .G_graphic {
+        margin-top: 30px;
+    }
+    .graphics h2{
+        font-size:15px;
+    }
+    .graphics h3{
+        font-size:14px;
+    }
+    .g_hr {
+        color: red;
+        width: 15%;
+    }
+    .graphics p{
+        font-size:13px;
+    }
+    /* blog start */
+    .latest {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .h{
+        margin-left:0;
+        font-size:14px;
+    }
+    .latest p {
+        margin-left: 0px;
+        margin-top: 10px;
+        font-size: 11px;
+    }
+    /* blog end */
+    /* footer start */
+    .footer{
+        padding:10px 0;
+    }
+    .f_footer p{
+        margin-top:20px;
+        font-size:14px;
+    }
+    /* footer end */
+    
+}
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* header start */
+    .C_template h3{
+        font-size:100px;
+    }
+    /* .header end */
+}
+
+ /* X-Large devices (desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+
+ /* XX-large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
